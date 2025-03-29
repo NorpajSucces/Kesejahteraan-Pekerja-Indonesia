@@ -1,7 +1,7 @@
 # 🚀 Kesejahteraan Pekerja Indonesia
 
 ## 📌 Deskripsi
-Repositori ini bertujuan untuk menganalisis dan meningkatkan kesejahteraan pekerja di Indonesia dengan menggunakan data dan metode berbasis teknologi. Melalui pengolahan data dan pemodelan, proyek ini diharapkan dapat memberikan wawasan yang lebih baik terkait kondisi pekerja di berbagai sektor.
+Repositori ini bertujuan untuk menganalisis dan meningkatkan kesejahteraan pekerja di Indonesia dengan menggunakan data dan metode berbasis teknologi. Melalui pengolahan data dan pemodelan, proyek ini diharapkan dapat memberikan wawasan yang lebih baik terkait kondisi pekerja di berbagai sektor. [Sumber Dataset](https://www.kaggle.com/datasets/wowevan/dataset-kesejahteraan-pekerja-indonesia?select=garisKemiskinan.csv)
 
 ## Struktur Proyek
 ```
